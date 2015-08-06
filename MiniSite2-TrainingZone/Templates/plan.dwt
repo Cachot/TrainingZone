@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Project Plan for Student Name, CP2010/NM2301 2012</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="file:///C|/Users/Administrator/Desktop/CP1406/MySite/Templates/Style/GlobalStyle.css" rel="stylesheet" type="text/css">
+
+<link href="../Style/GlobalStyle.css" rel="stylesheet" type="text/css">
+<link href="../SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script src="../SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div id="Banner_Section">
+    <h1> Project Plan</h1>
+    <h1> Mini Site 2 - Training Zone</h1>
+</div>
+  <div id="Body_Section">
+  <p>&lt;Your name &amp; login (e.g. jc123456)&gt;</p>
+  <div id="Nav_Bar">
+    <div id="TabbedPanels1" class="TabbedPanels">
+      <ul class="TabbedPanelsTabGroup">
+        <li class="TabbedPanelsTab" tabindex="0">Home</li>
+        <li class="TabbedPanelsTab" tabindex="0">History</li>
+        <li class="TabbedPanelsTab" tabindex="0">Announcements</li>
+        <li class="TabbedPanelsTab" tabindex="0">Contact</li>
+        <li class="TabbedPanelsTab" tabindex="0">Links</li>
+      </ul>
+      <div class="TabbedPanelsContentGroup">
+        <div class="TabbedPanelsContent">content 1</div>
+        <div class="TabbedPanelsContent">content 2</div>
+        <div class="TabbedPanelsContent">content 3</div>
+        <div class="TabbedPanelsContent">content 4</div>
+        <div class="TabbedPanelsContent">content 5</div>
+      </div>
+    </div>
+    <p>&nbsp;</p>
+  </div>
+  <h2>Mission Statement</h2>
+    <p>The Training Zone web site is intended to increase revenue for Traning  Zone by promoting the services offered by the company and increasing new and  repeat customers.</p>
+    <h2>Success Evaluation</h2>
+  <p>Other advertising will be consistent for a  period of 3 months (except for including the new web site), so that any  increase in sales should be attributable to the site. At the end of this 3  month period (and during), the number of new customers will be counted and  compared to the previous 3 months.</p>
+  <h2>Target Audience</h2>
+  <p>Local residents, mostly between the ages of 28  and 50 form the majority of our current audience (mature age job seekers), and  this is who the site is aimed at.</p>
+  <h2>Site Flowchart (Structure Diagram)</h2>
+  <p><img src="file:///C|/Users/Administrator/Desktop/CP1406/MySite/Templates/Images/flowchart1.png" width="625" height="190"></p>
+</div>
+<h2>&nbsp;</h2>
+<script type="text/javascript">
+var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+</script>
+</body>
+</html>

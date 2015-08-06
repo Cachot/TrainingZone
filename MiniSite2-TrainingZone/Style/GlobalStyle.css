@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Main_Content {
+	background-color: #333;
+}
+#Banner_Section {	
+	font-size: 36px;
+	background-color: #630;
+	border: medium solid #9CF;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+#Nav_Bar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #90F;
+	border: medium double #90F;
+}
+#Body_Section {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #669;
+	border: medium double #00CC99;
+}
+#Footer_Section {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background-color: #00F;
+	border: medium thin #06F;
+	text-align: center;
+	font-style: italic;
+}
+h1 {
+	font-size: 24px;
+	color: #900;
+}
+h2 {
+	font-size: 16px;
+	color: #903;
+}
+h3 {
+	font-size: 16px;
+	color: #00F;
+}
+h4 {
+	font-size: 16px;
+	font-style: italic;
+	color: #60C;
+}
+.p1_style {
+	font-size: 12px;
+	color: #00F;
+}
+.p2_style {
+	font-size: 12px;
+	color: #930;
+}
+.p3_style {
+	font-size: 12px;
+	color: #606;
+}
+.p4_style {
+	font-size:12px;
+	color: #0F0;
